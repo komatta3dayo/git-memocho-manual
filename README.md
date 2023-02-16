@@ -28,14 +28,14 @@
 
 ## 画面構成：
 - メモリスト画面(色の選択が可能)  
-![image](./img/list-001.png) ![image](./img/list-002.png) ![image](./img/list-003.png)
+![画面構成イメージ](./img/list-001.png) ![image](./img/list-002.png) ![image](./img/list-003.png)
 
 - メモ編集・参照画面  
--![image](./img/editor-001.png)
+![メモ編集・参照画面イメージ](./img/editor-001.png)
 
 - コミット履歴・差分表示画面  
-![image](./img/git-log-001.png) ![image](./img/git-log-002.png) ![image](./img/git-log-003.png)
+![コミット履歴・差分表示画面イメージ](./img/git-log-001.png) ![image](./img/git-log-002.png) ![image](./img/git-log-003.png)
 
 - 設定画面  
-![image](./img/settings-001.png) ![image](./img/settings-002.png)
+![設定画面](./img/settings-001.png) ![image](./img/settings-002.png)
 
