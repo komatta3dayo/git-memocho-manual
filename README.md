@@ -8,9 +8,8 @@ https://play.google.com/store/apps/details?id=com.github.komatta3dayo.gitmemo
   - アプリ内蔵のGitリポジトリを利用しています。
   - GitHubなどの外部のGitリポジトリも使用できます。
 - Markdownファイルの表示ができます。
-- メモ編集時に入力内容のUndo/Redoが可能です。
 - メモの検索が可能です。
-- メモの一覧表示、ファイルのツリー表示できます。
+- メモの一覧表示、フォルダ表示ができます。
 
 ## できないこと・制約事項
 - Gitブランチの作成、選択の機能がありません。デフォルトブランチのみ使用可能です。
@@ -18,7 +17,6 @@ https://play.google.com/store/apps/details?id=com.github.komatta3dayo.gitmemo
 - GitHubなどの外部のGitリポジトリのアカウントは各自で取得が必要です。
 - 登録可能なGitリポジトリは10個までです。
 - 巨大なリポジトリのgit cloneはできません。(エラーになります)
-- Markdownはテキスト表示のみ。画像表示はできません。
 
 ## 変更履歴
 - [変更履歴](./release.md)参照
