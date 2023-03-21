@@ -1,4 +1,6 @@
 # Gitメモ帳
+https://play.google.com/store/apps/details?id=com.github.komatta3dayo.gitmemo
+
 ## このアプリについて
 - メモ帳アプリです。
 - メモのバージョン管理ができます。
@@ -11,14 +13,12 @@
 - メモの一覧表示、ファイルのツリー表示できます。
 
 ## できないこと・制約事項
-- ファイルのコピー、移動といった操作はできません。
 - Gitブランチの作成、選択の機能がありません。デフォルトブランチのみ使用可能です。
 - Gitリポジトリの接続はhttpsのみ。ssh接続は対応していません。
 - GitHubなどの外部のGitリポジトリのアカウントは各自で取得が必要です。
 - 登録可能なGitリポジトリは10個までです。
 - 巨大なリポジトリのgit cloneはできません。(エラーになります)
 - Markdownはテキスト表示のみ。画像表示はできません。
-- メモはリポジトリ直下のディレクトリに作成される。保存先のディレクトリは選択できません。
 
 ## 変更履歴
 - [変更履歴](./release.md)参照
@@ -33,6 +33,8 @@
 - メモリスト画面(色の選択が可能)  
 <img src="./img/01-list-001.png" width="30%"> <img src="./img/01-list-002.png" width="30%"> <img src="./img/01-list-003.png" width="30%">
 <img src="./img/01-list-004.png" width="30%"> <img src="./img/01-list-005.png" width="30%"> <img src="./img/01-list-006.png" width="30%">
+- メモリスト画面(フォルダ表示)  
+<img src="./img/01-list-folder-001.png" width="30%"> <img src="./img/01-list-folder-002.png" width="30%">
 
 - メモ編集・参照画面  
 <img src="./img/02-editor-001.png" width="30%"> <img src="./img/02-editor-002.png" width="30%"> <img src="./img/02-editor-003.png" width="30%"> 
