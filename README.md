@@ -12,7 +12,6 @@ https://play.google.com/store/apps/details?id=com.github.komatta3dayo.gitmemo
 - メモの一覧表示、フォルダ表示ができます。
 
 ## できないこと・制約事項
-- Gitブランチの作成、選択の機能がありません。デフォルトブランチのみ使用可能です。
 - Gitリポジトリの接続はhttpsのみ。ssh接続は対応していません。
 - GitHubなどの外部のGitリポジトリのアカウントは各自で取得が必要です。
 - 登録可能なGitリポジトリは10個までです。
